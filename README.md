@@ -1,7 +1,8 @@
 # about-me
 
 ## Repository Links
--[SourceRepository](https://github.com/Puneeth159/about-me/edit/master/README.md)
+- [Source Repository](https://github.com/Puneeth159/about-me/edit/master/README.md)
+- [Hosted Webpage](https://puneeth159.github.io/about-me/)
 
 
 ## About
@@ -21,7 +22,8 @@ This repo is created to know about tools used in webapplication development and 
 ## Contributors
 - Name: Puneeth Annam
 - Program: Masters in Applied Computer Science
-  This is my favourite picture
+ 
+ This is my favourite picture
 
 ![My favourite Picture](https://imagevars.gulfnews.com/2019/08/09/190809-india-flag_16c77466fdf_large.jpg)
 
