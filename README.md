@@ -23,8 +23,8 @@ This repo is created to know about tools used in webapplication development and 
 - Name: Puneeth Annam
 - Program: Masters in Applied Computer Science
  
- This is my favourite picture
+   My favourite picture
 
-![My favourite Picture](https://imagevars.gulfnews.com/2019/08/09/190809-india-flag_16c77466fdf_large.jpg)
+![Indian Flag](https://imagevars.gulfnews.com/2019/08/09/190809-india-flag_16c77466fdf_large.jpg)
 
 
