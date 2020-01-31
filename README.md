@@ -26,6 +26,8 @@ This repo is created to know about tools used in webapplication development and 
      My favourite picture
 
 ![Indian Flag](https://imagevars.gulfnews.com/2019/08/09/190809-india-flag_16c77466fdf_large.jpg)
-https://imagevars.gulfnews.com/2019/08/09/190809-india-flag_16c77466fdf_large.jpg
+-[Image obtained from](https://imagevars.gulfnews.com/2019/08/09/190809-india-flag_16c77466fdf_large.jpg)
+  
+
 
 
