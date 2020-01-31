@@ -1,8 +1,8 @@
 # about-me
 
 ## Repository Links
--[SourceRepository](https://github.com/Puneeth159/about-me/edit/master/README.md)
--[HostedWebpage](
+-(https://github.com/Puneeth159/about-me/edit/master/README.md)
+(
 
 ## About
 This repo is created to know about tools used in webapplication development and also resources
