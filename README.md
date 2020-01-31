@@ -1,7 +1,7 @@
 # about-me
 
 ## Repository Links
-- [Source Repository](https://github.com/Puneeth159/about-me/edit/master/README.md)
+- [Source Repository](https://github.com/Puneeth159/about-me)
 - [Hosted Webpage](https://puneeth159.github.io/about-me/)
 
 
