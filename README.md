@@ -1,14 +1,14 @@
 # about-me
 
 ## Repository Links
--[Source Repository](
--[Hosted Webpage](
+-[SourceRepository](
+-[HostedWebpage](
 
 ## About
 This repo is created to know about tools used in webapplication development and also resources
 
 ## Recommended Tools
-1. [Github Account](https://github.com/Puneeth159)
+1. [GithubAccount](https://github.com/Puneeth159)
 1. Tortoise Git
 1. Putty
 1. Visual studio code: a text editor used for preview of webpage
@@ -20,8 +20,8 @@ This repo is created to know about tools used in webapplication development and 
 
 ## Contributors
 - Name: Puneeth Annam
--Program: Masters in Applied Computer Science
-This is my favourite picture
+- Program: Masters in Applied Computer Science
+  This is my favourite picture
 
 ![My favourite Picture](https://imagevars.gulfnews.com/2019/08/09/190809-india-flag_16c77466fdf_large.jpg)
 
