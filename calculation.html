@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Puneeth">
+    <meta name="description" content="This is my developer page">
+    <title>Puneeth</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+
+
+
+    <nav>
+
+
+
+        <div class="Webpage">
+
+
+            <a href="index.html" class="Webpage-button">Home</a>
+            <a href="contact.html" class="Webpage-button">Contact</a>
+            <a href="calculation.html" class="Webpage-button">Calculation</a>
+
+        </div>
+        <h2></h2>
+    </nav>
+   
+<h2>Length Converter</h2>
+<p>Type a value in the Kilometers field to convert the value to Miles:</p>
+
+<p>
+  <label>Kilometers</label>
+  <input id="inputKilometers" type="number" placeholder="Kilometers" oninput="LengthConverter(this.value)" onchange="LengthConverter(this.value)">
+</p>
+<p>Miles: <span id="outputMiles"></span></p>
+
+<script>
+function LengthConverter(valNum) {
+  document.getElementById("outputMiles").innerHTML=valNum*0.62137;
+}
+</script>
+</body>
+</html>

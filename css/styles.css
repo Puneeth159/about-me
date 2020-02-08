@@ -2,12 +2,23 @@ h1 {
   color: black;
   text-align: center;
 }
-img {
-  border-radius: 50%;
-}
-
-img {
+#profile {
+  border-radius:50%;
   display: block;
-  margin-left: auto;
+  margin-left: left;
   margin-right: auto;
 }
+nav { 
+  background : none;
+  float:right;
+  font-size: 1.125em;
+  margin-right: 5%;
+  text-align:right;
+  width:45%;
+  word-spacing: 2em;
+
+}
+table, th, td {
+  border: 1px solid black;
+}
+
