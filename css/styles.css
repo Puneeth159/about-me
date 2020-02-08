@@ -2,23 +2,30 @@ h1 {
   color: black;
   text-align: center;
 }
+
 #profile {
-  border-radius:50%;
+  border-radius: 50%;
   display: block;
   margin-left: left;
   margin-right: auto;
 }
-nav { 
-  background : none;
-  float:right;
+
+nav {
+  background: none;
+  float: right;
   font-size: 1.125em;
   margin-right: 5%;
-  text-align:right;
-  width:45%;
+  text-align: right;
+  width: 45%;
   word-spacing: 2em;
-
 }
+
 table, th, td {
   border: 1px solid black;
 }
 
+  form {
+    position: relative;
+    padding: 110px 350px 28px 45px;
+  }
+  
