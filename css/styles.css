@@ -10,6 +10,7 @@ h1 {
   margin-right: auto;
 }
 
+
 nav {
   background: none;
   float: right;
@@ -22,10 +23,12 @@ nav {
 
 table, th, td {
   border: 1px solid black;
+
 }
 
-  form {
-    position: relative;
-    padding: 110px 350px 28px 45px;
-  }
+ 
+ 
+
+  
+  
   
